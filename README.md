@@ -1,4 +1,4 @@
-<img width="308" height="21" alt="image" src="https://github.com/user-attachments/assets/c8647720-2b73-4793-8531-aa343709ce44" /><p align="center">
+<p align="center">
   <img src="https://play-lh.googleusercontent.com/14wZH4BAl4Y5tBX8HH-2fdRp4VEpCAU46nxtzS1m_x1hpyAAoPuNhd3TdrVQ6myA_44pObGp-Vg4GFKI9MgkoA=w240-h480-rw" width="100" alt="Live Home 3D Pro icon"/>
 </p>
 
